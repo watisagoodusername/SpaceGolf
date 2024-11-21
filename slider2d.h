@@ -77,8 +77,6 @@ public:
 
             valtopos();
 
-            std::cout << handleval.x << ", " << handleval.y << "  " << handlepos.x << ", " << handlepos.y << "\n";
-
             var = handleval;
         }
     }
